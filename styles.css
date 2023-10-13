@@ -1,0 +1,32 @@
+.update {
+  border: 0.3pc solid aqua;
+  border-radius: 3%;
+  box-shadow: 0 0 3pc rgb(231, 100, 6);
+  padding: 0.3pc;
+  margin: 0.5em;
+}
+.update-text {
+  background-color: aqua;
+  padding: 0.6pc;
+  border-radius: 0.5pc;
+  color: rgb(14, 14, 184);
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 1.5pc;
+}
+.font-style {
+  text-decoration: underline;
+  color: blue;
+  font-weight: bold;
+}
+.font-styles {
+  color: rgb(239, 13, 24);
+  font-weight: bold;
+}
+.card {
+  border-radius: 1em;
+}
+.card:hover {
+  background-color: rgb(212, 244, 231);
+}
